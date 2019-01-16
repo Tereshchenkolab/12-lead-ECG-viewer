@@ -1,5 +1,5 @@
 # 12-lead-ECG-viewer
-Clinical Viewer of raw digital 12-lead ECG file (ECG file in .txt format). Viewer can be installed in a computer without pre-installed Matlab. Use provided MATLAB app installer file name "MyAppInstaller_web.exe" to install this APP in any computer, and follow installation instructions.  
+Clinical Viewer of raw digital 12-lead ECG file (ECG file in .txt format). Viewer can be installed in a computer without pre-installed Matlab. Use provided MATLAB app installer file name "MyAppInstaller_web.exe" to install this APP in any PC computer, and follow installation instructions.  
 
  ## Table of Content
    - 12-lead clinical ECG viewer
