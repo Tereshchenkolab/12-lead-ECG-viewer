@@ -9,7 +9,7 @@ Clinical Viewer of raw digital 12-lead ECG file (ECG file in .txt format). Viewe
    
  ### Authors
 ECG viewer V.1
-Yin Li-Pershing, BS.
+Yin Li-Pershing, BS and Erick A. Perez-Alday, PhD.
 
  
  ### MATLAB Code
